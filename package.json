@@ -4,5 +4,10 @@
   "description": "",
   "keywords": [],
   "author": "savage",
-  "arklet": true
+  "arklet": true,
+  "dependencies": {
+    "@xism/arklet": "^0.0.1",
+    "i": "^0.3.7",
+    "npm": "^11.3.0"
+  }
 }
